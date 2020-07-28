@@ -17,6 +17,6 @@
   > JavaScript *pls no hate*
 
 - What languages do you speak?
-  > English, Filipino, Bisaya, Cebuano
+  > English and Filipino
 
-Well that concludes my userpage.
+*Well that concludes my userpage.*
