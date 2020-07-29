@@ -6,6 +6,10 @@
 #### ❓ What do you do for a living?
   I make discord bots, and I do other stuff such as playing games and I sometimes do web development. 
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 | |
 |:--:|
 | *this is unfinished, some information will be added/removed in the future updates* |
