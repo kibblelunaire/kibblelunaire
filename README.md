@@ -1,22 +1,11 @@
-### Welcome to my user profile!
+### 👋  Oh, hi! 
+  Didn't see you there. My name is Ivan and I like to fiddle around with stuff that I'm not supposed to fiddle with.
 
-- Who am I?
-  > I am a bot developer, You can call me Ivan for short.
+  > I am a 13 (*14 in oct 2020*) year old coder exploring the wonderful world of programming.
 
-- What do you do for a living?
-  > I make discord bots, and I do other stuff such as playing games and I sometimes do web development. 
+### ❓ What do you do for a living?
+  I make discord bots, and I do other stuff such as playing games and I sometimes do web development. 
 
-- What programming languages have you learned?
-  > HTML (35/100) \
-  > CSS (25/100) \
-  > JavaScript (47.5/100) \
-  > TypeScript (12.5/100) \
-  > Python (5.75/100)
-
-- What is your most favorite programming language?
-  > JavaScript *pls no hate*
-
-- What languages do you speak?
-  > English and Filipino
-
-*Well that concludes my userpage.*
+| Userpage Info |
+|:--:|
+| *this is unfinished, some information will be added/removed in the future updates* |
