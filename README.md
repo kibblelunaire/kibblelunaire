@@ -1,4 +1,4 @@
-#### :octocat:  Oh, hi! 
+### :shipit:   Oh, hi! 
   Didn't see you there. My name is Ivan and I like to fiddle around with stuff that I'm not supposed to fiddle with.
 
   > I am a 13 (*14 in oct 2020*) year old coder exploring the wonderful world of programming.
