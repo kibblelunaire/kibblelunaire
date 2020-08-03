@@ -5,7 +5,12 @@
 
 <br><br>
 
-<h4>〽️ |  What do you do for a living?</h4>	
+<h4>〽️  |  What do you do for a living?</h4>	
 <hr/><p>I make discord bots, and I do other stuff such as playing games and I sometimes do web development.</p>
 <a href="https://youtu.be/gCAYhUkKUjU">here's some random video</a>
+
+<br><br>
+
+<h4>😕  |  What projects am I working on?</h4>
+<hr/><p>Some of the stuff I am working on is private.  But they're a discord bot.</p>
 </div>
