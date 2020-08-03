@@ -12,5 +12,5 @@
 <br><br>
 
 <h4>😕  |  What projects am I working on?</h4>
-<hr/><p>Some of the stuff I am working on is private.  But they're a discord bot.</p>
+<hr/><p>Some of the stuff I am working on is private.  But it's a discord bot.</p>
 </div>
