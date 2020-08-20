@@ -13,4 +13,5 @@
 
 <h4>😕  |  What projects am I working on?</h4>
 <hr/><p>Some of the stuff I am working on is private.  But it's a discord bot.</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnsrrn&hide=shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
