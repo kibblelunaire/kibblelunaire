@@ -3,8 +3,7 @@ I'm currently studying **JavaScript** for some random reason and I've also made 
 ~~If you're in doubt, don't hesitate to visit <a href="https://questions.haruu.gq">this website</a> for free and submit a question.~~ \
 *Website not ready yet, please be patient*
 
-—  Эрик Демидов
-
 <div align="center">
+  <!-- —  Эрик Демидов -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnsrrn&hide=shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
