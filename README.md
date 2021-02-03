@@ -1,4 +1,4 @@
-### Oh hi! Didn't see you there
+### 👋 ｜ Oh hi! Didn't see you there
 
 Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fiddle with.
 
@@ -17,8 +17,10 @@ Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fi
 
 ---
 
+<h5 align="center">yo mama blue (2019-2021)</h5>
 
-<div align="center">
-  <!-- —  Эрик Демидов -->
+<!-- <div align="center">
+  Эрик Демидов
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnsrrn&hide=shell&title_color=ffffff&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
+-->
