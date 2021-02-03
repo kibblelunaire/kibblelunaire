@@ -1,5 +1,5 @@
 #### Oh hi! Didn't see you there
-I'm currently studying **JavaScript** for some random reason and I've also made an upcoming discord bot.\
+I am currently studying JavaScript for a random reason and I have also made a future Discord bot.
 
 ```diff
 + Hello, my name is Ivan and I like to do stuff.
