@@ -1,14 +1,22 @@
 ### Oh hi! Didn't see you there
 
-Heya! I'm Kibble. I am a 14 year old programmer that'll turn 15 in October. \
-*I am currently studying JavaScript for a random reason and I have also made a future Discord bot.*
+Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fiddle with.
 
 ---
 
-```
-I'm currently working on:
-- Tranquil
-```
+〽️  ｜  What do you do for a living?
+- Make Discord bots that will get deleted later.
+- Play games (such as: Genshin Impact, Minecraft, and Roblox)
+- Web development
+
+🌱  ｜  What projects am I working on?
+- [Tranquil](https://github.com/ivnsrrn/tranquil), an upcoming music bot.
+- [osuAutoBot](https://github.com/ivnsrrn/osuAutoBot), some bot for the game [osu!](https://osu.ppy.sh)
+  - I am not responsible for any damages, you can compile and build the code for yourself.
+  - This is not game-friendly and will result in an immediate account ban if used.
+
+---
+
 
 <div align="center">
   <!-- —  Эрик Демидов -->
