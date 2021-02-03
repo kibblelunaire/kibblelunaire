@@ -2,9 +2,9 @@
 I'm currently studying **JavaScript** for some random reason and I've also made an upcoming discord bot.\
 
 ```diff
-+ - Hello, my name is Ivan and I like to do stuff.
-+ - I play games like Genshin Impact, Minecraft and Paladins
-+ - I'm curious about things, like all the time.
++ Hello, my name is Ivan and I like to do stuff.
++ I play games like Genshin Impact, Minecraft and Paladins
++ I'm curious about things, like all the time.
 ```
 
 <div align="center">
