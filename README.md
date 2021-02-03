@@ -4,8 +4,8 @@ Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fi
 
 ---
 
-〽️  ｜  What do you do for a living?
-- Make Discord bots that will get deleted later.
+〽️  ｜  What do you do for a living
+- Make Discord bots that will get deleted/deprecated later.
 - Play games (such as: Genshin Impact, Minecraft, and Roblox)
 - Web development
 
