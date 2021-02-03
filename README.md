@@ -1,10 +1,9 @@
 ### Oh hi! Didn't see you there
 
 Heya! I'm Kibble. I am a 14 year old programmer that'll turn 15 in October.
+*I am currently studying JavaScript for a random reason and I have also made a future Discord bot.*
 
 ---
-
-*I am currently studying JavaScript for a random reason and I have also made a future Discord bot.*
 
 ```
 I'm currently working on:
