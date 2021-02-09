@@ -19,7 +19,7 @@ Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fi
 
 
 - yo mama blue (2019-2021)
-- userpage inspired by: [@Sxmurai's info page [sorry Gavin I ran out of ideas]](https://github.com/Sxmurai)
+- userpage inspired by: [@Sxmurai's info page [sorry Gavin for copying your info page I just-]](https://github.com/Sxmurai)
 
 
 <!-- <div align="center">
