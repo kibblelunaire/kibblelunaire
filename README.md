@@ -10,7 +10,8 @@ Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fi
 - Web development
 
 🌱  ｜  What projects am I working on?
-- [Tranquil](https://github.com/ivnsrrn/tranquil), an upcoming music bot.
+- ~~[Tranquil](https://github.com/ivnsrrn/tranquil), an upcoming music bot.~~
+  - This project is currently in progress, but the repository is no longer maintained due to privacy and security issues.
 - [osuAutoBot](https://github.com/ivnsrrn/osuAutoBot), some bot for the game [osu!](https://osu.ppy.sh)
   - I am not responsible for any damages, you can compile and build the code for yourself.
   - This is not game-friendly and will result in an immediate account ban if used.
@@ -19,7 +20,7 @@ Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fi
 
 
 - yo mama blue (2019-2021)
-- userpage inspired by: [@Sxmurai's info page [sorry Gavin for copying your info page I just-]](https://github.com/Sxmurai)
+- userpage inspired from: [@Sxmurai's info page, too lazy to make a profile page.](https://github.com/Sxmurai)
 
 
 <!-- <div align="center">
