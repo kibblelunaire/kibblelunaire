@@ -1,6 +1,6 @@
 ### 👋 ｜ Oh hi! Didn't see you there
 
-Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fiddle with.
+Heya! I'm Zeryu (formerly Kibble/Lunaire). I like to fiddle around with stuff that I'm not supposed to fiddle with.
 
 ---
 
@@ -12,9 +12,11 @@ Heya! I'm Kibble. I like to fiddle around with stuff that I'm not supposed to fi
 🌱  ｜  What projects am I working on?
 - ~~[Tranquil](https://github.com/ivnsrrn/tranquil), an upcoming music bot.~~
   - This project is currently in progress, but the repository is no longer maintained due to privacy and security issues.
+
 - [osuAutoBot](https://github.com/ivnsrrn/osuAutoBot), some bot for the game [osu!](https://osu.ppy.sh)
   - I am not responsible for any damages, you can compile and build the code for yourself.
   - This is not game-friendly and will result in an immediate account ban if used.
+  - Please use it offline. I haven't released an executable version but I will in the future.
 
 ---
 
