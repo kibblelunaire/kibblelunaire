@@ -1,7 +1,13 @@
 > ### 👋 ｜ Oh hi! Didn't see you there
 
 > Heya! I'm Zeryu. I like to fiddle around with stuff that I'm not supposed to fiddle with.
-> - I'm currently retiring coding and visiting GitHub for a while, so expect some inactivity.
+> - I'm currently retiring coding and visiting GitHub for a while, so expect some inactivity. Oh, how improper of me.
+
+<blockquote>
+  <div align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeryu-lunaire&hide=shell&title_color=ffffff&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1d1f21" />
+  </div>
+</blockquote>
 
 ---
 
@@ -20,8 +26,3 @@
 >   - Please use it offline. I haven't released an executable version but I will in the future.
 
 ---
-
-
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeryu-lunaire&hide=shell&title_color=ffffff&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1d1f21" />
-</div>
