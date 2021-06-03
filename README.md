@@ -1,6 +1,7 @@
 ### 👋 ｜ Oh hi! Didn't see you there
 
 Heya! I'm Zeryu (formerly Kibble/Lunaire). I like to fiddle around with stuff that I'm not supposed to fiddle with.
+I'm also dunderheaded, I'll tell you that.
 
 ---
 
