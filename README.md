@@ -2,6 +2,7 @@
 
 > Heya! I'm Zeryu. I like to fiddle around with stuff that I'm not supposed to fiddle with.
 > - I'm currently retiring coding and visiting GitHub for a while, so expect some inactivity. Oh, how improper of me.
+> - [I'm going to GitLab for a vacation btw, if you don't fucking mind.](https://gitlab.com/ivnsrrn)
 
 <blockquote>
   <div align="left">
