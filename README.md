@@ -1,16 +1,22 @@
-> ### 👋 ｜ Oh hi! Didn't see you there
+<p>
+  <img width="100" align='left' src="https://avatars.githubusercontent.com/u/56120267?&raw=true&v=4">
+</p>
+ 
+### 👋 ｜ Oh hi! Didn't see you there
 
-> Heya! I'm Sigma (or Sigmatus). I like to fiddle around with stuff that I'm not supposed to fiddle with.
-> - I'm currently retiring coding and visiting GitHub for a while, so expect some inactivity. Oh, how improper of me.
+Heya! I'm Sigma and I'm from the [🇵🇭 Philippines](https://www.google.com/maps/place/Philippines/) and I like to fiddle around with stuff that I'm not supposed to fiddle with. Exploring the wonderful world of programming is my hobby, I'm a JavaScript enthusiast but I'm still learning and still bad at it. This quarantine stuff became a hassle but I guess this is the current hobby that'll entertain me until it's over.
 
 ---
 
 > 〽️  ｜  What do you do for a living?
 > - Make Discord bots that will get deleted/deprecated later.
 > - Play games (such as: Genshin Impact, Minecraft, and Roblox)
-> - Web development
+> - I do web development when I have the time
 
 > 🌱  ｜  What projects am I working on?
+> - I am currently not planning to revive some projects because I'm really lazy to code. 
+
+> 🥀  ｜  Stale projects
 > - ~~[Tranquil](https://github.com/zeryu-lunaire/tranquil), an upcoming music bot.~~
 >   - This project is no longer maintained due to privacy and security issues.
 
@@ -20,8 +26,6 @@
 
 ---
 
-<blockquote>
-  <div align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeryu-lunaire&hide=shell&title_color=ffffff&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1d1f21" />
-  </div>
-</blockquote>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigmatuse4&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</div>
