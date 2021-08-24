@@ -10,19 +10,18 @@ Heya! I'm Sigma and I'm from the [🇵🇭 Philippines](https://www.google.com/m
 
 > 〽️  ｜  What do you do for a living?
 > - Make Discord bots that will get deleted/deprecated later.
-> - Play games (such as: Genshin Impact, Minecraft, and Roblox)
+> - Play games such as Genshin Impact, Minecraft, Paladins (planning to buy Overwatch), and so on.
 > - I do web development when I have the time
-
-> 🌱  ｜  What projects am I working on?
-> - I am currently not planning to revive some projects because I'm really lazy to code. 
 
 > 🥀  ｜  Stale projects
 > - ~~[Tranquil](https://github.com/sigmatuse4/tranquil), an upcoming music bot.~~
 >   - This project is no longer maintained due to privacy and security issues.
-
 > - [osuAutoBot](https://github.com/sigmatuse4/osuAutoBot), some bot for the game [osu!](https://osu.ppy.sh)
 >   - This is not game-friendly and will result in an immediate account ban if used.
 >   - Please use it offline. I haven't released an executable version but I will in the future.
+
+> 🌱  ｜  What projects am I working on?
+> - I am currently not planning to revive some projects because I'm really lazy to code. 
 
 ---
 
