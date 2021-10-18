@@ -4,18 +4,16 @@
  
 ### 👋 ｜ Oh hi! Didn't see you there
 
-Heya! I'm Rald and I'm from the [🇵🇭 Philippines](https://www.google.com/maps/place/Philippines/) and I like to fiddle around with stuff that I'm not supposed to fiddle with. Exploring the wonderful world of programming is my hobby, I'm a JavaScript enthusiast but I'm still learning and still bad at it. I've also grown interest over AI and machine learning. This quarantine stuff became a hassle but I guess this is the current hobby that'll entertain me until it's over.
+Heya! I'm Rald and I'm from the [🇵🇭 Philippines](https://www.google.com/maps/place/Philippines/).  I'm a 9th grader that likes to fiddle around with stuff that I'm not supposed to fiddle with. I'm a JavaScript enthusiast (35% good at it). And that's what I basically do for a living.
 
 ---
 
 > 〽️  ｜  What do you do for a living?
 > - Make Discord bots that will get deleted/deprecated later.
-> - Play games such as Genshin Impact, Minecraft, Paladins (planning to buy Overwatch), and so on.
+> - Play games such as Genshin Impact, and so on.
 > - I do web development when I have the time
 
-> 🥀  ｜  Stale projects
-> - ~~[Tranquil](https://github.com/sigmatuse4/tranquil), an upcoming music bot.~~
->   - This project is no longer maintained due to privacy and security issues.
+> 🥀  ｜  Stale projects (projects that have a 25% of being archived)
 > - [osuAutoBot](https://github.com/sigmatuse4/osuAutoBot), some bot for the game [osu!](https://osu.ppy.sh)
 >   - This is not game-friendly and will result in an immediate account ban if used.
 >   - Please use it offline. I haven't released an executable version but I will in the future.
