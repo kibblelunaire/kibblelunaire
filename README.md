@@ -4,7 +4,7 @@
  
 ### 👋 ｜ Oh hi! Didn't see you there
 
-Heya! I'm Sigma and I'm from the [🇵🇭 Philippines](https://www.google.com/maps/place/Philippines/) and I like to fiddle around with stuff that I'm not supposed to fiddle with. Exploring the wonderful world of programming is my hobby, I'm a JavaScript enthusiast but I'm still learning and still bad at it. I've also grown interest over AI and machine learning. This quarantine stuff became a hassle but I guess this is the current hobby that'll entertain me until it's over.
+Heya! I'm Rald and I'm from the [🇵🇭 Philippines](https://www.google.com/maps/place/Philippines/) and I like to fiddle around with stuff that I'm not supposed to fiddle with. Exploring the wonderful world of programming is my hobby, I'm a JavaScript enthusiast but I'm still learning and still bad at it. I've also grown interest over AI and machine learning. This quarantine stuff became a hassle but I guess this is the current hobby that'll entertain me until it's over.
 
 ---
 
