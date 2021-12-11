@@ -13,7 +13,7 @@ Heya! I'm Rald and I'm from the [🇵🇭 Philippines](https://www.google.com/ma
 > - Make Discord bots that will get deleted/deprecated later.
 > - I do web development when I have the time
 
-> 🥀  ｜  Stale projects (projects that have a 25% of being archived)
+> 🥀  ｜  Stale projects (projects that have a 25% of being revived)
 > - [osuAutoBot](https://github.com/sigmatuse4/osuAutoBot), some bot for the game [osu!](https://osu.ppy.sh)
 >   - This is not game/multiplayer friendly and will result in an immediate account ban if used. Please use it offline. \
 >   _I haven't released an executable version but I will in the future, I will give you segfault if you use it online._
