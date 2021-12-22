@@ -4,7 +4,7 @@
  
 ### 👋 ｜ Oh hi! Didn't see you there
 
-Heya! I'm Rald and I'm from the [🇵🇭 Philippines](https://www.google.com/maps/place/Philippines/).  I'm a 9th grader that likes to fiddle around with stuff that I'm not supposed to fiddle with. I'm a JavaScript enthusiast (35% good at it). And that's what I basically do for a living.
+Heya! I'm Rald and I'm from the [🇵🇭 Philippines](https://www.google.com/maps/place/Philippines/).  I'm a 9th grader that likes to fiddle around with stuff that I'm not supposed to fiddle with. I'm a JavaScript enthusiast (35% good at it). And that's what I basically do for a living. I also like to plan things that either get postponed or recycled because of mismanagement and laziness.
 
 ---
 
