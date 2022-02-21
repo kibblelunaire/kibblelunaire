@@ -1,4 +1,5 @@
 ### 2-21-2022
+`last updated on 02-21-2022 at 11:25pm`
 - do you are have stupid
 - also I forgot I was 15 wtf
 - currently struggling to stay awake
