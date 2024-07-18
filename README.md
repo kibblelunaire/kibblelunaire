@@ -1,9 +1,10 @@
-### `Basic Info`
-- from the philippines, smol island but looks epic.
-- a 15 year old programmer with only JavaScript knowledge.
-- only uses this account for maintaining private repositories.
+👋 I’m Rald [he/him]. A full-stack developer from the Philippine archipelago that relies on StackOverflow and coffee ☕ \
+🛠️ I’m interested in making things that are functional, useful and accessible (for me, others or everyone) \
+🌱 I'm currently self-learning front-end and back-end programming languages as they peaked my interest.
 
-### `Weird Facts`
-- I don't really use ESLint.
-- I finally learned how to use JSDocs
-- I learn by exploring things, and has a FOMO (fear of missing out).
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,windicss,mongodb,express,figma" width="400" />
+</a>
+
+## 👥 Organizations
+  - [Kajise](https://github.com/kajise)
